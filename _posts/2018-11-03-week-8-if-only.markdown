@@ -68,7 +68,7 @@ This leaves us with $4600 remaining for the final WR slot. 23% of milly maker ro
 
 Of these options Sammy Watkins in retrospect stands out as the WR with the highest upside. Watkins has 9 games of DK point totals over 25 points in his career (out of 59 total games) and is playing in the most electric passing attack in the NFL.  Godwin was the most popular choice in this range, likely plugged in frequently in Jameis Winston stacks. But given the value at RB and the better pass catchers available in that game (as covered in the game stack section) we didn't need to reach for a player like Godwin who has 1 career game of 20+ Draftkings points.  The figure below shows how ownership shook out for WR in this range.  Those that got on Watkins or Fitzgerald had the potential for big scores. 
 
-![wr-data-plot]({{ site.baseurl}}/img/wr_plt.png){:class = "img-responsive"}
+![wr-data-plot](/img/wr_plt.png){:class = "img-responsive"}
 
 ### Selections
 
