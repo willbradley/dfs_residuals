@@ -1,16 +1,20 @@
 ---
 layout: post
 comments: true
-title:  "Week 8: If Only..."
+title:  "Targeting Tampa: Week 8 If Only..."
 date:   2018-11-03 16:48:26 -0400
 author: "Will Bradley"
 categories: jekyll update
 permalink: /:title
 ---
 
-The purpose of this blog is to analyze outcomes in the prior week's Draftkings millionaire maker contest and, instead of reviewing the winning $1M lineup, retroactively build a lineup that could have taken down the tournament.  
+_The purpose of this blog is to analyze outcomes in the prior week's Draftkings millionaire maker contest and, instead of reviewing the winning $1M lineup, retroactively build a lineup that could have taken down the tournament_.  
  
-This exercise helps show the value of zigging where others zag in large field GPPs, but also illustrates that you don't need to go way off the board to build a lineup capable of outscoring 200K+ entries.  Yes it's easy to play Monday morning quarterback, but there are logical ex ante reasons for rostering the following lineup and each player should have been on the radar of DK millionaire maker contestants entering multiple lineups.
+_This exercise helps show the value of zigging where others zag in large field GPPs, but also illustrates that you don't need to go way off the board to build a lineup capable of outscoring 200K+ entries.  Yes it's easy to play Monday morning quarterback, but there are logical ex ante reasons for rostering the following lineup and each player or game stack should have been on the radar of DK millionaire maker contestants entering multiple lineups_.
+
+***
+
+<br/>
 
 In week 8 the winning team rostered by LololoLola (he or she probably had some laughs last Sunday) scored 242.8 points, therefore we need 242.81 points to win.  Let's see how we could have gotten there. 
 
@@ -54,7 +58,7 @@ Green, Evans, Boyd and Jackson have all shown off 30+ point ceiling this year, s
 | WR2 | Tyler Boyd     | $6700 |
 | TE  | OJ Howard      | $3900 |
 
-WR3 and Defense
+## WR3 and Defense
 
 The clear chalk play at Defense was Pittsburgh at $2300 home against Cleveland.  On 34.2% of rosters, the Steelers predictably were the most popular DST selected in the milly maker by a huge margin (the Bears were next closest at 8.4%).  While it was so easy to plug in the Steelers at near minimum salary, doing so effectively cancels out any leverage you may get at the DST postion. In other words, even if the Steelers D goes off we won't climb up the leaderboard.  Because DST outcomes are so volatile, pivoting to another defense in a good matchup was a clever way to differentiate a lineup in a massive tournament. One such team in a good matchup was Washington at $2700 against the woeful NY Giants.  Anyone following the NFL this season has likely heard about the Giants underachieving offense and Eli's poor play.  Their weaknesses start up front, so even if Odell/Saquon had productive days, Washington was likely to get sacks and potentially force Eli to turn it over.  
 
