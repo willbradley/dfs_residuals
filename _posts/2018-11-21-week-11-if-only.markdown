@@ -1,0 +1,94 @@
+---
+layout: post
+comments: true
+title:  "Play the Saints: Week 11 If Only..."
+date:   2018-11-21 21:00:26 -0400
+author: "Will Bradley"
+categories: jekyll update
+permalink: /:title
+---
+
+_The purpose of this blog is to analyze outcomes in the prior week's Draftkings millionaire maker contest and, instead of reviewing the winning $1M lineup, retroactively build a lineup that could have taken down the tournament_.  
+ 
+_This exercise helps show the value of zigging where others zag in large field GPPs, but also illustrates that you don't need to go way off the board to build a lineup capable of outscoring 200K+ entries.  Yes it's easy to play Monday morning quarterback, but there are logical ex ante reasons for rostering the following lineup and each player or game stack should have been on the radar of DK millionaire maker contestants entering multiple lineups_.
+
+***
+
+<br/>
+
+The week 11 million dollar lineup rostered by BillyVonElds scored 254.72 points, therefore we need 254.73 points to win.  Let's get to it. 
+
+## RB 1 and 2
+
+It seemed like all running backs priced $7500+ were in dream matchups in week 11 making the RB slots a logical place to start roster construction.  Atlanta has been torched by running backs throughout the year making Ezekiel Elliott a core play.  The plot below shows combined RB points against Atlanta in the first 10 weeks of 2018. In every week, Atlanta has allowed over 20 points and have given up 30 or more 6 times.  Knowing Elliott will get virtually all the RB touches, there was a high-ceiling and high-floor in rostering Elliott making him the type of chalky play we like to target. 
+
+![atl plot]({{site.baseurl}}/img/atl_RB.png){:class = "img-responsive"}
+
+Saquon Barkley meanwhile drew a home matchup against Tampa, a team we've been targeting this year as they play at a fast pace and concede yardage in bunches.  With exception to the prior week against San Francisco, Saquon had topped 20 points in all games thus far in his rookie campaign.  Like Elliott, this in another chalky play that makes sense to lock in. Both players were highly owned on the week 11 slate with each carrying over 25% ownership. Had you failed to roster them, you were already in a hole going into the late-afternoon games.
+
+### Selections
+
+| Position | Player      |  Salary |
+|----------|-------------|--------:|
+| RB1 |  Ezekiel Elliott    | $8500 |
+| RB2 |  Saquon Barkley  | $8700 |
+
+## Team Stack: QB, FLEX, WR1
+
+If you haven't learned to play Saints at home yet in 2018, it's time to start.  There are many ways to approach targeting the Saints offense but you can never go wrong starting with Drew Brees. In the Superdome Brees had been averaging 29.3 DK points per week prior to week 11. At $6500, an average day would be more than enough to start a potential Milly Maker winning team. One thing I regretted in week 11 was playing Carson Wentz over Brees in a lot of my lineups thinking the Eagles would need to play catchup and lean on a pass-heavy scheme.  But something we need to keep in mind is that Brees is in the MVP hunt and has been passing major NFL milestones this season.  While measuring the impact of this added incentive is hard to tease out, it's a narrative that likely has some merit as Brees may get more opportunities in the red zone to pile on touchdown stats. 
+
+To couple with Brees we needed to pay down given our choices at RB.  Tre'Quan Smith was coming off a 0 target game, however the Saints blew out out their opponent the Bengals that week and had little need to involve Smith.  At $4K this was an inexpensive way to target some upside in the Saints passing attack. Lastly, the run game has been the foundation of the Saints offense.  Mark Ingram was involved in a big way in week 10 and still had a depressed price tag in a difficult matchup with the Eagles front.  Although there is a time-share in the Saints backfield, we knew there would be plenty of scoring opportunities for both Ingram and Kamara given the 32 point team total.  Ingram represented good value and a slightly contrarian stack with Brees.
+
+### Selections
+
+| Position | Player      |  Salary |
+|----------|-------------|--------:|
+| QB  |  Drew Brees      | $6500 |
+| WR1 |  Tre'Quan Smith    | $4000 |
+| FLEX |  Mark Ingram  | $4700 |
+
+## Mini Game Stack - WR2, TE 
+
+An offense I have not played nearly enough of in recent weeks has been the Indianapolis Colts.  The plot below shows average weekly team offensive DK points since week 3.  Indianapolis surprisingly leads the NFL in team offensive fantasy points in this time frame.  Most of the skill players on this offense though are still cheap on Draftkings, making them a sneaky target to fill out lineups.  T.Y. Hilton is the highest upside player on this offense (although Marlon Mack has shown slate-winning ceiling) and has a history of big games at home throughout his career.  
+
+![colts plot]({{site.baseurl}}/img/colts_plot.png){:class = "img-responsive"}
+
+On the other side of this game we have a good punt option at tight end in Jonnu Smith.  Jonnu had come off back to back double digit DK point games and was a nice pivot off potentially popular cheap tight ends like Ricky Seals-Jones.
+
+### Selections
+
+| Position | Player      |  Salary |
+|----------|-------------|--------:|
+| WR2 |  T.Y. Hilton   | $6100|
+| TE  |  Jonnu Smith   | $2700 |
+
+## WR3 and Defense
+
+Injuries and the recent trade of Golden Tate have set up Kenny Golladay for a true WR1 workload in the Lions offense.  Coming off a 13 target game against the Bears, Golladay was a nice way to plug in guaranteed volume at a reasonable price. The Lions have been inconsistent this season but have played better at home.  At defense we have $3000 left to work with.  The Steelers have been playing well of late and there is always a path to a double digit points against Bortles and the Jacksonville offense.  
+
+### Selections
+
+| Position | Player      |  Salary |
+|----------|-------------|--------:|
+| WR3 |  Kenny Golladay    | $5800 |
+| DST |  Pittsburgh | $2900 |
+
+## Results
+
+Our "If only..." team this week ended up with a point total of 255.02 points, just enough to get over the top.  The key to success this week was locking in the right high-priced RBs, getting on the Saints offense but fading the Eagles on the other side of the ball.  Another solid lineup construction was to start with Cam Newton, Golladay and D.J. Moore and plug in value elsewhere.  This was an approach I took in one of my Milly Maker teams last week, but I failed to roster Barkley and Elliott which limited this team's upside.  Ultimately our winning team was pretty chalky:
+
+| Position | Player      |  Salary | Pts| Own %|
+|----------|-------------|--------:|----:|-----:|
+| QB |  Drew Brees    | $6500 | 33.52 | 14.81% |
+| RB1 |  Saquon Barkley    | $8900 | 38.2  | 29.81%  |
+| RB2 |  Ezekiel Elliot | $8500 | 36.1 | 25.39% |
+| WR1 |  T.Y. Hilton | $7600 | 42.1 | 15.24% |
+| WR2 |  Tre'Quan Smith    | $4000 | 34.7 | 7.59% |
+| WR3 |  Kenny Golladay    | $5800 | 28.3 | 19.25% |
+| TE |  Jonnu Smith    | $2700 | 10.4 | 4.1% |
+| FLEX  | Mark Ingram      | $4700 | 25.3 | 14.54% |
+| DST |  Pittsburgh | $2900 | 9.0 | 9.86% |
+|     | Total       | $49900 | 255.02 | |
+
+This next week will be interesting with the Saints, Rams and Chiefs all not on the main slate.  I'll probably look to play Colts especially against a vulnerable Miami team.  Tampa as always is in play but it is tough to roster a QB given their propensity for mid-game benchings.  Lamar Jackson also has emerged as a viable QB option which will lead to diverse lineup constructions given that he will almost always be played without a pass catcher.    
+
