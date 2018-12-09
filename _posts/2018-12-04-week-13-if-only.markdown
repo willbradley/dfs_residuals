@@ -1,0 +1,87 @@
+---
+layout: post
+comments: true
+title:  "Kansas City Pivot: Week 13 If Only..."
+date:   2018-12-08 21:00:26 -0400
+author: "Will Bradley"
+categories: jekyll update
+permalink: /:title
+---
+
+_The purpose of this blog is to analyze outcomes in the prior week's Draftkings millionaire maker contest and, instead of reviewing the winning $1M lineup, retroactively build a lineup that could have taken down the tournament_.  
+ 
+_This exercise helps show the value of zigging where others zag in large field GPPs, but also illustrates that you don't need to go way off the board to build a lineup capable of outscoring 200K+ entries.  Yes it's easy to play Monday morning quarterback, but there are logical ex ante reasons for rostering the following lineup and each player or game stack should have been on the radar of DK millionaire maker contestants entering multiple lineups_.
+
+***
+
+<br/>
+
+It took $100 to roster a week 13 Millionaire Maker lineup and 232.25 points to top adamlegbert's winning lineup.  How could we have gotten there? 
+
+## QB and TE
+
+Week 13 was headlined by a number of late-breaking news items that shifted ownership dramatically on the main slate.  Notably the release of Kareem Hunt locked in Spencer Ware into an RB1 workload against the Raiders. Ware was rostered on a remarkable 61.3% of lineups in the Millionaire Maker. We could reasonably project sky-high ownership on Ware, therefore a high-leverage approach to the 44K entry Millionaire Maker was to pivot off Ware and use other Chiefs players.  With no Hunt and Watkins out with injury we knew there would be a tighter distribution of targets to the elite pass catchers on the Chiefs offense; so stacking Patrick Mahomes with Travis Kelce and/or Tyreek Hill was a good place to start building a contrarian Spencer Ware-less GPP lineup.  Hill was quite expensive at $9100, so Kelce and Mahomes was an easier stack to afford.  The plot below shows combined DK point totals for Mahomes and Kelce along with their positional rank that week.  
+
+![chiefs plot]({{site.baseurl}}/img/chiefs_plt.png){:class = "img-responsive"}
+
+### Selections
+
+| Position | Player      |  Salary |
+|----------|-------------|--------:|
+| QB |  Patrick Mahomes   | $7600 |
+| TE |  Travis Kelce  | $7000 |
+
+## Mini Game Stack: RB1 & RB2
+
+My last two write-ups have included Saquon Barkley (I probably would have included him in week 12 too), so why stop now.  Barkley was in a tough home matchup against the Bears, but his $7900 tag was his lowest price since week 6.  Despite lower expected efficiency against a good run defense, we could still project high-volume for Saquon especially in the passing game.  By playing Mahomes and Kelce it was difficult to afford the other elite RB options like Christian McCaffrey and Todd Gurley, so rostering Saquon at a discount was a good way to save salary while still preserving upside in the RB1 slot.  
+
+Tarik Cohen has flashed 30+ point upside this season and was in a good spot against a Giants team that has allowed big games to RBs including Alvin Kamara, Matt Breida and Peyton Barber.  If Saquon and the Giants were to keep the game competitive, Cohen would figure to be a key part of the Bears offense with Chase Daniel still at the helm.  
+
+### Selections
+
+| Position | Player      |  Salary |
+|----------|-------------|--------:|
+| RB1  |  Saquon Barkley     | $7900 |
+| RB2 |  Tarik Cohen    | $5600 |
+
+## Game Stack: WR1, WR2, WR3
+
+A popular game stack choice in week 13 was the Tampa vs. Carolina matchup. We've discussed in prior write-ups the pass-heavy scheme for Tampa and how it lends itself to big games for pass catchers and QBs on both sides of the ball.  Given our Chiefs stack, we need to save some salary at WR.  Chris Godwin and Adam Humphries were in position for a higher target share with the absenses of OJ Howard and Desean Jackson.  Both players were popular with Godwin at 21.3% owned and Humphries at 17.4% in the Milly Maker; however only 2.2% of lineups had Godwin AND Humphries.  While Godwin and Humphries were chalky, there was a path to being contrarian by saving salary and locking in both WRs, especially without Jameis Winston.  Opposite the Tampa WRs we have salary for DJ Moore who has shown he has the most upside of the Carolina pass catchers over the last month.  
+
+### Selections
+
+| Position | Player      |  Salary |
+|----------|-------------|--------:|
+| WR1 |  Chris Godwin | $3900 |
+| WR2 |  Adam Humphries   | $4200 |
+| WR3 |  D.J. Moore    | $5600 |
+
+## Flex & Defense
+
+Phillip Lindsay has shown outstanding efficiency since the Broncos week 10 bye. Fresh off back to back performances with over 7 yards per carry and at least one TD, Lindsay was facing a weak Cincinatti run defense.  While not heavily involved in the Broncos passing game, Lindsay needed only about 20 pts (something he had done in 3 of his last 4 games) to be a viable RB on a winning Milly Maker team.  The Broncos defense was likewise in a great position for a big day facing a backup quarterback.  At $2700 this was a solid play to plug in with Lindsay. 
+
+### Selections
+
+| Position | Player      |  Salary |
+|----------|-------------|--------:|
+| FLEX |  Phillip Lindsay    | $5400 |
+| DST |  Denver | $2700 |
+
+## Results
+
+Our "If only..." team this week ended up with a point total of 233.64 points, taking down the $1M by 1.4 points.  With a smaller entry pool, scores were a bit lower at the top of the prize pool. The key in week 13 was getting on Travis Kelce who outscored almost all other tight ends by nearly 30 points.  Paying up at QB and TE allowed us to make up for not including McCaffrey and Todd Gurley.  Playing Saquon over CMC and Gurley required bringing it back with Tarik Cohen to post a winning score.  Our WR plays were all chalky and didn't require much creativity.  Our winning team looked like this:
+
+| Position | Player      |  Salary | Pts| Own %|
+|----------|-------------|--------:|----:|-----:|
+| QB |  Patrick Mahomes    | $7600 | 33.00 | 19.94% |
+| RB1 |  Saquon Barkley    | $7900 | 20.6  | 15.62%  |
+| RB2 |  Tarik Cohen | $5600 | 37.64 | 4.05% |
+| WR1 |  Chris Godwin | $3900 | 24.1 | 21.34% |
+| WR2 |  Adam Humphries   | $4200 | 19.1 | 17.43% |
+| WR3 |  D.J. Moore    | $5600 | 10.5 | 17.64% |
+| TE |  Travis Kelce    | $7000 | 42.8 | 15.89% |
+| FLEX  | Phillip Lindsay  | $5400 | 31.9 | 28.06% |
+| DST |  Denver | $2700 | 14.00 | 8.68% |
+|     | Total       | $49900 | 233.64 | |
+
+In retrospect, fading Spencer Ware at 60% ownership seems like a no-brainer especially for casual DFS players like myself who threw one dart in the $100 buy-in week 13 contest.  Any player can fail in an NFL game, especially players where we have some uncertainty about their offensive role.  Ware has had big games in his career, but the Chiefs offense is not a run-first attack. If we can get a leg up on 60% of the field if Ware posts a mediocre day, then we give ourselves a much better chance to win by taking a different approach to lineup construction. 
